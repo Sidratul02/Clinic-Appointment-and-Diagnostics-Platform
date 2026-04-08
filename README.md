@@ -2,10 +2,6 @@
 
 This repository contains the ER diagram for a clinic system that manages patients, doctors, appointments, consultations, diagnostics, reports, and payments.
 
-## Diagram
-
-- ER MODEL 03.png — the exported ER diagram image for the clinic platform.
-
 ## Key Entities and Relationships
 
 - **patients**
