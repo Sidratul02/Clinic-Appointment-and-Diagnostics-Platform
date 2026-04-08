@@ -66,4 +66,4 @@ eport_id (PK)
 
 - This design supports multiple visits per patient and multiple patients per doctor.
 - The model keeps tests and reports separate from patient master data while preserving the consultation workflow.
-'
+
